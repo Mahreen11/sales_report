@@ -6,8 +6,8 @@ PowerBI is an extremely useful tool to show such insights. PowerBI enables to ap
 #Installing and running the dashboard
 
 1. Install MySQL community server under GPL license.
-1. The installation package should include MySQL Workbench, MySQL CLI, MySQL Shell, MySQL server and MySQL Router.
-1. If the community server didn't include Connector/ODBC and Connector/NET, then you need to explicitly install these. 
-1. While installation, create a user with full admin rights and give a password.
-1. The database used is provided in the repository under the name "db_dump.sql"
+2. The installation package should include MySQL Workbench, MySQL CLI, MySQL Shell, MySQL server and MySQL Router.
+3. If the community server didn't include Connector/ODBC and Connector/NET, then you need to explicitly install these. 
+4. While installation, create a user with full admin rights and give a password.
+5. The database used is provided in the repository under the name "db_dump.sql"
 
