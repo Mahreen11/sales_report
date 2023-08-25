@@ -16,7 +16,20 @@ PowerBI is an extremely useful tool to show such insights. PowerBI enables to ap
 9. Use the tool to create the dashboard
 
 # Using the dashboard
+- The image below shows the dashboard presenting the sales in the year 2019
+[Salesyear2019]
 <img width="563" alt="powerBIsalesyear2019" src="https://github.com/Mahreen11/sales_report/assets/63392563/6bbee96c-d8b0-455d-9137-6a8472d0029b">
 
+- The image below shoes the sales report the highest revenue generating customer
+- 
+<img width="530" alt="powerBIsalesbytopcustomer" src="https://github.com/Mahreen11/sales_report/assets/63392563/61810d85-5a9a-453a-bef2-0f20e2069939">
+
+-The image below shows the revenue and amount sold of the 3rd highest selling product
+
+<img width="536" alt="powerBIsalesby3rdproduct" src="https://github.com/Mahreen11/sales_report/assets/63392563/7b23ded2-326e-4c0a-a148-651619ac6f88">
+
+-The image below shows the sales report of the market in mumbai
+
+<img width="539" alt="powerBIsalesMumbai" src="https://github.com/Mahreen11/sales_report/assets/63392563/a12d5e72-9d90-470b-9bf9-8da16b2affa1">
 
 
